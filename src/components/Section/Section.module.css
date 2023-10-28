@@ -1,0 +1,12 @@
+.sectionList {
+  background-color: var(--background-section);
+  width: 50%;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
